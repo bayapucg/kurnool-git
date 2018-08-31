@@ -120,33 +120,43 @@
                     </li> 
 					
                    
-                    <li>
-                        <a href="javascript:void(0);" class="menu-toggle">
-                            <i class="material-icons">person_add</i>
-                            <span>Plastic bags</span>
+					
+					<li>
+                        <a href="add-vendor.php">
+                            <i class="material-icons">dashboard </i>
+                            <span>Roll printing</span>
                         </a>
-                        <ul class="ml-menu">
-                           <li>
-								<a href="add-vendor.php">Roll printing</a>
-							</li>	
-							<li>
-								<a href="hm-offset-single-colour.php">HM offset single colour</a>
-							</li>
-							<li>
-								<a href="hm-ld-sizes-list.php">HM, LD sizes & No/kg </a>
-							</li>
-							<li>
-								<a href="u-cut.php">U-Cut</a>
-							</li>
-                            
-                        </ul>
                     </li>
+					<li>
+                        <a href="hm-offset-single-colour.php">
+                            <i class="material-icons">dashboard </i>
+                            <span>HM offset single colour</span>
+                        </a>
+                    </li>	
+					<li>
+                        <a href="hm-ld-sizes-list.php">
+                            <i class="material-icons">dashboard </i>
+                            <span>HM, LD sizes & No/kg</span>
+                        </a>
+                    </li>
+					<li>
+                        <a href="u-cut.php">
+                            <i class="material-icons">dashboard </i>
+                            <span>HM, LD sizes & No/kg</span>
+                        </a>
+                    </li>
+					
 					<li>
                         <a href="bag-colours-gsm.php">
                             <i class="material-icons">dashboard </i>
-                            <span>Bag colours & GSM</span>
+                            <span>U-Cut</span>
                         </a>
                     </li>
+					
+					
+					
+					
+					
 					<li>
                         <a href="bag-sizes.php">
                             <i class="material-icons">dashboard </i>
