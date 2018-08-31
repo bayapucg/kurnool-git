@@ -1,0 +1,9 @@
+.vertical-center{
+	vertical-align :middle !important;
+	text-align:center !important;
+}
+.help-li li{
+	font-size:17px;
+	line-height:25px;
+	
+}
